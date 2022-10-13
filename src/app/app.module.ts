@@ -6,6 +6,7 @@ import { AppComponent } from './app.component';
 import { HeaderComponent } from './header/header.component';
 import { CUSTOM_ELEMENTS_SCHEMA } from '@angular/core';
 import { TestGridComponent } from './test-grid/test-grid.component';
+import { TestGrid3Component } from './test-grid-3/test-grid-3.component';
 
 @NgModule({
   imports: [BrowserModule, FormsModule],
